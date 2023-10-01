@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['923170773776'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['923170773776'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '923170773776' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['923323963788'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['923323963788'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '923323963788' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DJ BALOCH' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'DJ BOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'D J' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'K A M I' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'K A T O O' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'K - K' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'NILL'
 global.region = 'Pakistan'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© K A T O O' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'KAMI' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -83,9 +83,9 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
-botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
+admin: '_MAKE ADMIN IDIOT!_',
+botAdmin: '_NEED TO BE THE ADMIN SIR!_',
+owner: '_KAMRAN HASIL IS THE Owner_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
